@@ -1,0 +1,24 @@
+.messageRed
+{
+    color:#f00;
+}
+
+.messageGreen
+{
+    color:#0f0;
+}
+
+.borderRed
+{
+    border-color: #f00;
+}
+
+.borderGreen
+{
+    border-color: #0f0;
+}
+
+.borderDefault
+{
+    border-color:darkgrey;
+}
